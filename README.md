@@ -39,13 +39,20 @@ Each error is worth 10 points summing up to 50 points total for the homework ass
 
 The output should look like,
 
-'''sh
+```sh
 0
+
 0       1
+
 0       1       2
+
 0       1       2       3
+
 1       2       3
+
 2       3
+
 3
+
 QUEUE EMPTY
-'''
+```
