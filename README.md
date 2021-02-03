@@ -34,8 +34,7 @@ There are three methods, a enqueue, a deqeue, and a node initalizer that contain
 Fixing the three methods is the assignment means you are done.
 This assignment will be graded on completelness, finding the bugs and fixing them means you have completed it.
 
-There are 5 lines which are incorrect.
-Each error is worth 10 points summing up to 50 points total for the homework assignment.
+There are 6 lines which are incorrect.
 
 The output should look like,
 
